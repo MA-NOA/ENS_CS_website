@@ -1,0 +1,10 @@
+{
+  "description": "Connect with fellow computer science enthusiasts through a dynamic club website that facilitates event planning, resource sharing, and community engagement.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
