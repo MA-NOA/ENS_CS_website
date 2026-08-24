@@ -8,15 +8,15 @@
   --color-foreground: #ededed;
   --color-card: #121218;
   --color-card-foreground: #ededed;
-  --color-primary: #a3ff6e;
+  --color-primary: #aaaaaa;
   --color-primary-foreground: #0b0b0f;
   --color-secondary: #1c1c26;
   --color-secondary-foreground: #ededed;
   --color-trans: transparent;
   --color-muted: #1c1c26;
   --color-muted-foreground: #888899;
-  --color-accent: #a3ff6e;
-  --color-accent-foreground: #0b0b0f;
+  --color-accent: #aaaaaa;
+  --color-accent-foreground: #aaaaaa;
   --color-border: #222230;
   --color-ring: #a3ff6e;
   --font-display: 'Fraunces', Georgia, serif;

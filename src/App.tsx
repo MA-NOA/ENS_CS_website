@@ -65,18 +65,19 @@ const PROJECTS = [
 ]
 
 const LANG_COLORS: Record<string, string> = {
-  Rust: '#f97316',
-  C: '#60a5fa',
-  Python: '#facc15',
-  TypeScript: '#818cf8',
+  Rust: '#aaaaaa',
+  C: '#aaaaaa',
+  Python: '#aaaaaa',
+  TypeScript: '#aaaaaa',
 }
 
 const TYPE_COLORS: Record<string, string> = {
-  COMPETITION: '#a3ff6e',
-  WORKSHOP: '#60a5fa',
-  TALK: '#f97316',
-  CONTEST: '#f472b6',
+  COMPETITION: '#aaaaaa',
+  WORKSHOP: '#aaaaaa',
+  TALK: '#aaaaaa',
+  CONTEST: '#aaaaaa',
 }
+
 
 function TerminalCursor() {
   const [visible, setVisible] = useState(true)
