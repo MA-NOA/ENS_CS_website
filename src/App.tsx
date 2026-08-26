@@ -256,7 +256,7 @@ export default function App() {
             }}
           >
             <span style={{ display: 'inline-block', width: 24, height: 1, background: 'var(--color-primary)' }} />
-            ENS Ampefiloha
+            ENS Ampefiloha (This website is in prod)
           </div>
 
           <h1
