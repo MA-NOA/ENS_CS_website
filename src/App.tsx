@@ -1,4 +1,3 @@
-import { SpeedInsights } from "@vercel/speed-insights/next"
 import { useState, useEffect } from 'react'
 
 const NAV_LINKS = ['About', 'Events', 'Projects', 'Join']
