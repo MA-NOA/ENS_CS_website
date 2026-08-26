@@ -92,7 +92,7 @@ function TerminalCursor() {
         display: 'inline-block',
         width: '0.6ch',
         height: '1em',
-        background: visible ? '#a3ff6e' : 'transparent',
+        background: visible ? '#ffffff' : 'transparent',
         marginLeft: '2px',
         verticalAlign: 'text-bottom',
         transition: 'background 0.05s',
